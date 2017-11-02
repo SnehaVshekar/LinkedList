@@ -1,0 +1,4 @@
+2 methods:
+
+1) hash-set
+2)Floyd's loop detection algorithm - using 2 pointers
